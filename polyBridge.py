@@ -14,12 +14,6 @@ encoded_message = code.encode()
 f = Fernet(key)
 encrypted_message = f.encrypt(encoded_message)
 
-
-#this will decrypt the data
-f = Fernet(key)
-decrypted_message = f.decrypt(encrypted_message)
-
-
 poly = """
 encrypted_message = '"""+encrypted_message.decode()+"""'
 key = """+str(key)+"""
