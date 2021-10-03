@@ -1,4 +1,4 @@
-# polymorphic-encryption
+# polymorphic-code
 
 I am interested in polymorphic code.
 
