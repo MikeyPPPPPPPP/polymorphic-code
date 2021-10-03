@@ -1,8 +1,5 @@
 # polymorphic-encryption
-this program will encrypt your code differently every time it is ran through the program
 
-how to use
+I am interested in polymorphic code.
 
-1.add your code to the code variable on line 5
-
-2.run python3 polyBridge.py > nameOfFile.py
+This program will make a copy of itself to a new file but the contents will be different in the new file.
